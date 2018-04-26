@@ -1,0 +1,10 @@
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\bin\Debug\Company Roster.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\bin\Debug\Company Roster.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\bin\Debug\Company Roster.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\bin\Debug\Oldest Family Member.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\bin\Debug\Oldest Family Member.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\bin\Debug\Oldest Family Member.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\obj\Debug\Company Roster.csprojResolveAssemblyReference.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\obj\Debug\Company Roster.csproj.CoreCompileInputs.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\obj\Debug\Company Roster.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\06. Company Roster\obj\Debug\Company Roster.pdb

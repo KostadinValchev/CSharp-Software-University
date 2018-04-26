@@ -1,0 +1,7 @@
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\bin\Debug\Speed Racing.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\bin\Debug\Speed Racing.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\bin\Debug\Speed Racing.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\obj\Debug\Speed Racing.csprojResolveAssemblyReference.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\obj\Debug\Speed Racing.csproj.CoreCompileInputs.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\obj\Debug\Speed Racing.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\07. Speed Racing\obj\Debug\Speed Racing.pdb

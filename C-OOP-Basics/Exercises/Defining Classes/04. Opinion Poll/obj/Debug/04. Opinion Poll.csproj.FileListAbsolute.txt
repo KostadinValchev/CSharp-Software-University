@@ -1,0 +1,7 @@
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\obj\Debug\04. Opinion Poll.csprojResolveAssemblyReference.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\obj\Debug\04. Opinion Poll.csproj.CoreCompileInputs.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\bin\Debug\Opinion_Poll.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\bin\Debug\Opinion_Poll.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\bin\Debug\Opinion_Poll.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\obj\Debug\Opinion_Poll.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\04. Opinion Poll\obj\Debug\Opinion_Poll.pdb

@@ -1,0 +1,7 @@
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\bin\Debug\Raw Data.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\bin\Debug\Raw Data.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\bin\Debug\Raw Data.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\obj\Debug\Raw Data.csprojResolveAssemblyReference.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\obj\Debug\Raw Data.csproj.CoreCompileInputs.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\obj\Debug\Raw Data.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\08. Raw Data\obj\Debug\Raw Data.pdb

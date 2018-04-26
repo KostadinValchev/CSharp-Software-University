@@ -1,0 +1,7 @@
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\bin\Debug\Define a class Person.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\bin\Debug\Define a class Person.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\bin\Debug\Define a class Person.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\obj\Debug\Define a class Person.csprojResolveAssemblyReference.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\obj\Debug\Define a class Person.csproj.CoreCompileInputs.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\obj\Debug\Define a class Person.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\01. Define a Class Person\obj\Debug\Define a class Person.pdb

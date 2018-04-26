@@ -1,0 +1,7 @@
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\obj\Debug\Creating Constructors.csprojResolveAssemblyReference.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\obj\Debug\Creating Constructors.csproj.CoreCompileInputs.cache
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\bin\Debug\Creating_Constructors.exe.config
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\bin\Debug\Creating_Constructors.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\bin\Debug\Creating_Constructors.pdb
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\obj\Debug\Creating_Constructors.exe
+E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\02. Creating Constructors\obj\Debug\Creating_Constructors.pdb
