@@ -1,7 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\bin\Debug\Date Modifier.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\bin\Debug\Date Modifier.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\bin\Debug\Date Modifier.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\obj\Debug\Date Modifier.csprojResolveAssemblyReference.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\obj\Debug\Date Modifier.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\obj\Debug\Date Modifier.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\05.Date Modifier\obj\Debug\Date Modifier.pdb

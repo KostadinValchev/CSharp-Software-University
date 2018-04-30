@@ -1,7 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\bin\Debug\Google.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\bin\Debug\Google.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\bin\Debug\Google.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\obj\Debug\Google.csprojResolveAssemblyReference.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\obj\Debug\Google.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\obj\Debug\Google.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\12. Google\obj\Debug\Google.pdb

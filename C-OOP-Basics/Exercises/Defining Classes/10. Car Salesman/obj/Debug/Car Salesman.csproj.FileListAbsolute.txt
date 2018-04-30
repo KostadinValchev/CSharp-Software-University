@@ -1,6 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\10. Car Salesman\bin\Debug\Car Salesman.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\10. Car Salesman\bin\Debug\Car Salesman.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\10. Car Salesman\bin\Debug\Car Salesman.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\10. Car Salesman\obj\Debug\Car Salesman.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\10. Car Salesman\obj\Debug\Car Salesman.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\10. Car Salesman\obj\Debug\Car Salesman.pdb

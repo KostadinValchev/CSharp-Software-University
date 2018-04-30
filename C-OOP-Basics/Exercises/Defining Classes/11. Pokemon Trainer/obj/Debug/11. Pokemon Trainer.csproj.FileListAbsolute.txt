@@ -1,6 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\11. Pokemon Trainer\bin\Debug\_11.Pokemon_Trainer.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\11. Pokemon Trainer\obj\Debug\11. Pokemon Trainer.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\11. Pokemon Trainer\obj\Debug\_11.Pokemon_Trainer.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\11. Pokemon Trainer\obj\Debug\_11.Pokemon_Trainer.pdb

@@ -1,6 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\14. Cat Lady\obj\Debug\14. Cat Lady.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\14. Cat Lady\bin\Debug\Cat_Lady.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\14. Cat Lady\bin\Debug\Cat_Lady.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\14. Cat Lady\bin\Debug\Cat_Lady.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\14. Cat Lady\obj\Debug\Cat_Lady.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\14. Cat Lady\obj\Debug\Cat_Lady.pdb

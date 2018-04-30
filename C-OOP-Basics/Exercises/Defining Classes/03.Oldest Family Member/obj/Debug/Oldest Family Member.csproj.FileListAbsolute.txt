@@ -1,7 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\bin\Debug\Oldest Family Member.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\bin\Debug\Oldest Family Member.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\bin\Debug\Oldest Family Member.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\obj\Debug\Oldest Family Member.csprojResolveAssemblyReference.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\obj\Debug\Oldest Family Member.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\obj\Debug\Oldest Family Member.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\03.Oldest Family Member\obj\Debug\Oldest Family Member.pdb

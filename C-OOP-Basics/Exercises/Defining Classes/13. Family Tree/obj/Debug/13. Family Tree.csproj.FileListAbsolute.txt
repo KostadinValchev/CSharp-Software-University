@@ -1,6 +1,0 @@
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\13. Family Tree\bin\Debug\_13.Family_Tree.exe.config
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\13. Family Tree\bin\Debug\_13.Family_Tree.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\13. Family Tree\bin\Debug\_13.Family_Tree.pdb
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\13. Family Tree\obj\Debug\13. Family Tree.csproj.CoreCompileInputs.cache
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\13. Family Tree\obj\Debug\_13.Family_Tree.exe
-E:\Desktop\OOP\Exercises\C-OOP-Basics\Exercises\Defining Classes\13. Family Tree\obj\Debug\_13.Family_Tree.pdb
